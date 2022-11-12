@@ -1,3 +1,5 @@
+# Update_Time: 2022-11-13 02:12:29
+# Update_Url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTubeMusic/YouTubeMusic.list
 # NAME: YouTubeMusic
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
@@ -5,8 +7,8 @@
 # HOST: 1
 # USER-AGENT: 4
 # TOTAL: 5
-HOST,music.youtube.com,YouTubeMusic
-USER-AGENT,*YouTubeMusic*,YouTubeMusic
-USER-AGENT,*com.google.ios.youtubemusic*,YouTubeMusic
-USER-AGENT,YouTubeMusic*,YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,YouTubeMusic
+HOST,music.youtube.com
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
