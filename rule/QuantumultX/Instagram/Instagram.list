@@ -1,3 +1,6 @@
+
+更新时间： 2022-11-13 01:10:24
+更新链接： https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Instagram/Instagram.list
 # NAME: Instagram
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
@@ -5,7 +8,7 @@
 # HOST-KEYWORD: 1
 # HOST-SUFFIX: 3
 # TOTAL: 4
-HOST-SUFFIX,cdninstagram.com,Instagram
-HOST-SUFFIX,instagr.am,Instagram
-HOST-SUFFIX,instagram.com,Instagram
-HOST-KEYWORD,instagram,Instagram
+HOST-SUFFIX,cdninstagram.com
+HOST-SUFFIX,instagr.am
+HOST-SUFFIX.com
+HOST-KEYWORD
