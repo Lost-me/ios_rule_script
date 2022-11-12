@@ -1,5 +1,5 @@
-# 更新时间： 2022-11-13 01:14:30
-# 更新链接： https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Instagram/Instagram.list
+# 更新时间： 2022-11-13 01:34:35
+# 更新链接： https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GitHub/GitHub.list
 # NAME: GitHub
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
@@ -11,21 +11,21 @@ HOST-SUFFIX,atom.io
 HOST-SUFFIX,dependabot.com
 HOST-SUFFIX,ghcr.io
 HOST-SUFFIX,git.io
-HOST-SUFFIX-atom-io-herokuapp-com.freetls.fastly.net
-HOST-SUFFIX-avatars.oss-cn-hongkong.aliyuncs.com
-HOST-SUFFIX-cloud.s3.amazonaws.com
-HOST-SUFFIX.blog
-HOST-SUFFIX.com
-HOST-SUFFIX.community
-HOST-SUFFIX.dev
-HOST-SUFFIX.io
-HOST-SUFFIXapp.com
-HOST-SUFFIXassets.com
-HOST-SUFFIXhackathon.com
-HOST-SUFFIXpreview.dev
-HOST-SUFFIXstatus.com
-HOST-SUFFIXuniverse.com
-HOST-SUFFIXusercontent.com
+HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+HOST-SUFFIX,github-cloud.s3.amazonaws.com
+HOST-SUFFIX,github.blog
+HOST-SUFFIX,github.com
+HOST-SUFFIX,github.community
+HOST-SUFFIX,github.dev
+HOST-SUFFIX,github.io
+HOST-SUFFIX,githubapp.com
+HOST-SUFFIX,githubassets.com
+HOST-SUFFIX,githubhackathon.com
+HOST-SUFFIX,githubpreview.dev
+HOST-SUFFIX,githubstatus.com
+HOST-SUFFIX,githubuniverse.com
+HOST-SUFFIX,githubusercontent.com
 HOST-SUFFIX,myoctocat.com
 HOST-SUFFIX,npm.community
 HOST-SUFFIX,npmjs.com
@@ -35,4 +35,4 @@ HOST-SUFFIX,rawgit.com
 HOST-SUFFIX,rawgithub.com
 HOST-SUFFIX,repo.new
 HOST-SUFFIX,thegithubshop.com
-HOST-KEYWORD
+HOST-KEYWORD,github
