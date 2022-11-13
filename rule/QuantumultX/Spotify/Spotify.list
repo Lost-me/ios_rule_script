@@ -1,4 +1,6 @@
-# NAME: Spotify
+# Update_Time: 2022-11-13 10:41:59
+# Update_Url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Shopify/Shopify.list
+# NAME: 
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-11-03 17:10:07
@@ -7,26 +9,26 @@
 # IP-CIDR: 1
 # USER-AGENT: 1
 # TOTAL: 23
-HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,Spotify
-HOST-SUFFIX,byspotify.com,Spotify
-HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,Spotify
-HOST-SUFFIX,pscdn.co,Spotify
-HOST-SUFFIX,scdn.co,Spotify
-HOST-SUFFIX,spoti.fi,Spotify
-HOST-SUFFIX,spotify-com.akamaized.net,Spotify
-HOST-SUFFIX,spotify-everywhere.com,Spotify
-HOST-SUFFIX,spotify.com,Spotify
-HOST-SUFFIX,spotify.design,Spotify
-HOST-SUFFIX,spotifycdn.com,Spotify
-HOST-SUFFIX,spotifycdn.net,Spotify
-HOST-SUFFIX,spotifycharts.com,Spotify
-HOST-SUFFIX,spotifycodes.com,Spotify
-HOST-SUFFIX,spotifyforbrands.com,Spotify
-HOST-SUFFIX,spotifyjobs.com,Spotify
-HOST-SUFFIX,spotifynewsroom.jp,Spotify
-HOST-SUFFIX,spotilocal.com,Spotify
-HOST-SUFFIX,tospotify.com,Spotify
-HOST-KEYWORD,-spotify-com,Spotify
-HOST-KEYWORD,spotify.com,Spotify
-USER-AGENT,Spotify*,Spotify
-IP-CIDR,35.186.224.47/32,Spotify
+HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,
+HOST-SUFFIX,byspotify.com,
+HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,
+HOST-SUFFIX,pscdn.co,
+HOST-SUFFIX,scdn.co,
+HOST-SUFFIX,spoti.fi,
+HOST-SUFFIX,spotify-com.akamaized.net,
+HOST-SUFFIX,spotify-everywhere.com,
+HOST-SUFFIX,spotify.com,
+HOST-SUFFIX,spotify.design,
+HOST-SUFFIX,spotifycdn.com,
+HOST-SUFFIX,spotifycdn.net,
+HOST-SUFFIX,spotifycharts.com,
+HOST-SUFFIX,spotifycodes.com,
+HOST-SUFFIX,spotifyforbrands.com,
+HOST-SUFFIX,spotifyjobs.com,
+HOST-SUFFIX,spotifynewsroom.jp,
+HOST-SUFFIX,spotilocal.com,
+HOST-SUFFIX,tospotify.com,
+HOST-KEYWORD,-spotify-com,
+HOST-KEYWORD,spotify.com,
+USER-AGENT,Spotify*,
+IP-CIDR,35.186.224.47/32,
